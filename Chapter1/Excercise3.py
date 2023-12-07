@@ -5,8 +5,10 @@ def is_valid_triangle(sideA, sideB, sideC):
     else:
         return False
     
+
+
 # The tree sides of a Triangle.
-sideA = float(input('Ener the length of sideA:'))
+sideA = float (input('Ener the length of sideA:'))
 sideB = float(input('Ener the length of sideB:'))
 sideC = float(input('Ener the length of sideC:'))
 
